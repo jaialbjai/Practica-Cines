@@ -1,0 +1,6 @@
+Sala			#Película1 	#Película2	#Película3	#Película4		#Película5
+Cineápolis WAY		#Frozen	2	#Raya		#Coco		#Ballerina		#Zootopia
+Cine Yelmo Lagoh	#Coco		#Brave		#Frozen 2	#Los Pitufos		#Rio
+Cinesur Los Alcores	#Rio		#Brave		#Raya		#Los Pitufos		#Ballerina
+Avenida 5 Cines		#Trolls 2	#Enredados	#Aladdin	#Los Croods		#Big Hero 6
+MarinaOcio		    #Rio        #Brave      #Aladdin    #3MSC           #Coco

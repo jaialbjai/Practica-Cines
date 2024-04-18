@@ -1,0 +1,2 @@
+Sala			#Película1 	#Película2	#Película3	#Película4		#Película5
+Cine Yelmo Lagoh	#Coco		#Brave		#Frozen 2	#Los Pitufos		#Rio

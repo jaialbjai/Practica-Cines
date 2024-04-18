@@ -1,0 +1,2 @@
+Sala			#Película1 	#Película2	#Película3	#Película4		#Película5
+Cinesur Los Alcores	#Rio		#Brave		#Raya		#Los Pitufos		#Ballerina

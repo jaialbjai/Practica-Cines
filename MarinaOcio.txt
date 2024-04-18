@@ -1,0 +1,2 @@
+Sala			#Película1 	#Película2	#Película3	#Película4		#Película5
+MarinaOcio		    #Rio        #Brave      #Aladdin    #3MSC           #Coco

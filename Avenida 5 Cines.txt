@@ -1,0 +1,2 @@
+Sala			#Película1 	#Película2	#Película3	#Película4		#Película5
+Avenida 5 Cines		#Trolls 2	#Enredados	#Aladdin	#Los Croods		#Big Hero 6
